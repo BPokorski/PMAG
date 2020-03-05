@@ -43,6 +43,10 @@ Tematy:
 <b>Zadanie 2 (3p).</b> Dodać mechanizm uwierzytelniania użytkownika na podstawie gestów i zmiany akceleracji. Prawidłowa sekwencja zdarzeń to: DOUBLE_TAP, DOUBLE_TAP, LONG_PRESS, ACCELERATION_CHANGE. Po 3 nieudanych próbach logowania należy zablokować interfejs. 
 W ocenie zadania będzie również uwzględniony wkład artystyczny. Interfejs powinien być instuicyjny.
 
+Materiały pomocnicze:
+
+- https://github.com/lipov1991/PMAG/tree/develop/Materia%C5%82y%20pomocnicze/Laboratorium%202
+
 #### Termin realizacji zadania: 11.03.2020 godz. 21.00
 
 
