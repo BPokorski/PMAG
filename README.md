@@ -36,7 +36,7 @@ Materiały pomocnicze:
 
 Tematy: 
 
-- Tworzenie widoków
+- Aktywności
 - Animacje
 - Kolekcje
 
@@ -54,8 +54,11 @@ Materiały pomocnicze:
 
 Tematy: 
 
-- Obsługa usług zewnętrznych z wykorzystaniem biblioteki Retrofit
-- Programowanie reaktywne z wykorzystaniem biblioteki RxJava
+- Fragmenty
+- Tworzenie nowoczesnych kontrolek
+- Komunikacja z bazą danych Firebase
+
+<b>Zadanie 3 (3p).</b> Treść zadania oraz makiety znajdują się pod linkiem: https://github.com/lipov1991/PMAG/blob/develop/Materia%C5%82y%20pomocnicze/Labolatorium%203/Instrukcja%20do%20zadania%20nr.%203.pdf
 
 #### Termin realizacji zadania: 18.03.2020 godz. 21.00
 
