@@ -62,7 +62,7 @@ Tematy:
 
 Instrukcja do zadania wraz zmakietami: 
 
-https://github.com/lipov1991/PMAG/blob/develop/Materia%C5%82y%20pomocnicze/Labolatorium%203/Instrukcja%20do%20zadania%20nr.%203.pdf
+https://github.com/lipov1991/PMAG/tree/develop/Materia%C5%82y%20pomocnicze/Labolatorium%203
 
 #### Termin realizacji zadania: 18.03.2020 godz. 21.00
 
