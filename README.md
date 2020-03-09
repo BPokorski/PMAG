@@ -60,7 +60,7 @@ Tematy:
 
 <b>Zadanie 3 (3p).</b> Dodać splash screen oraz 2 ekrany logowania. Na pierwszym z nich proszę umieścić kontrolkę EditText do loginu. Drugi ekran ma prezentować komponent wykonany w ramach poprzednich laboratoriów.
 
-Instrukcja do zadania wraz z zmakietami: 
+Instrukcja do zadania wraz z makietami: 
 
 https://github.com/lipov1991/PMAG/tree/develop/Materia%C5%82y%20pomocnicze/Labolatorium%203
 
