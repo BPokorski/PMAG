@@ -59,7 +59,7 @@ Tematy:
 - Fragmenty
 - Komunikacja z bazą danych Firebase
 
-<b>Zadanie 3 (3p).</b> Dodać splash screen oraz 2 ekrany logowania. Na pierwszym z nich proszę umieścić kontrolkę EditText do loginu. Drugi ekran ma prezentować komponent wykonany w ramach poprzednich laboratoriów.
+<b>Zadanie 3 (3p).</b> Dodać splash screen oraz 2 ekrany logowania. Na pierwszym z nich proszę umieścić kontrolkę EditText do loginu. Drugi ekran ma prezentować komponent wykonany w ramach poprzednich laboratoriów. Loginy oraz klucze (eventy) są przechowywane w bazie danych Firebase.
 
 Instrukcja do zadania wraz z makietami: 
 
