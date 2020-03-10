@@ -54,8 +54,9 @@ Materiały pomocnicze:
 
 Tematy: 
 
-- Fragmenty
+- Tworzenie warstw w widokach
 - Tworzenie nowoczesnych kontrolek
+- Fragmenty
 - Komunikacja z bazą danych Firebase
 
 <b>Zadanie 3 (3p).</b> Dodać splash screen oraz 2 ekrany logowania. Na pierwszym z nich proszę umieścić kontrolkę EditText do loginu. Drugi ekran ma prezentować komponent wykonany w ramach poprzednich laboratoriów.
@@ -63,6 +64,10 @@ Tematy:
 Instrukcja do zadania wraz z makietami: 
 
 https://github.com/lipov1991/PMAG/tree/develop/Materia%C5%82y%20pomocnicze/Labolatorium%203
+
+Materiały pomocnicze:
+
+- https://firebase.google.com/docs/database/android/start
 
 #### Termin realizacji zadania: 18.03.2020 godz. 21.00
 
